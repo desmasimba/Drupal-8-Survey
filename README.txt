@@ -8,5 +8,4 @@ This is the Drupal version of the Survey.
 --After submission, a thank you message is shown.
 
 Credentials
---User: desmond
---Pass: desmond22
+--Same as the Drupal 7 survey
